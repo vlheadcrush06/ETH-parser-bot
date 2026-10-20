@@ -1,0 +1,51 @@
+# Не коммитить секреты!!!
+
+.env
+.env.*
+!.env.example
+
+# Виртуальное окружение
+
+venv/
+.venv/
+env/
+ENV/
+
+
+# Python-кэш и артефакты
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Локальные данные бота
+
+data/
+*.log
+logs/
+
+
+# IDE и редакторы
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
+# Операционные системы
+
+.DS_Store
+Thumbs.db
+desktop.ini
