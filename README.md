@@ -5,7 +5,7 @@
 [![python-dotenv](https://img.shields.io/badge/python--dotenv-1.x-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)](https://github.com/theskumar/python-dotenv)
 
 ## Автор: **Владимир**, начинающий _python_ - разработчик ##
-### Ссылки на *другие* мои проекты: [ai reviever](https://github.com/vlheadcrush06/ai_reviever-v2-), [Эхо - бот](https://github.com/vlheadcrush06/ECHO-bot)
+### Ссылки на *другие* мои проекты: [ai reviever](https://github.com/vlheadcrush06/ai_reviever-v2), [Эхо - бот](https://github.com/vlheadcrush06/ECHO-bot)
 
 
  ## ❓*Что умеет этот бот?*
